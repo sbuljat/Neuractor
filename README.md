@@ -1,0 +1,2 @@
+# Neuractor
+Neural Net + Akka
